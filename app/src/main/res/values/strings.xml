@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstGitPJ</string>
+    <string name="text_hello">Hello Git World!</string>
 </resources>
